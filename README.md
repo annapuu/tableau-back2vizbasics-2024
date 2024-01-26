@@ -2,7 +2,7 @@
 
 This year I am attempting to regularly take part in the bi-weekly community project "Back 2 Viz Basics", to learn more about and get better at visualizing data, storytelling and of course Tableau itself.
 
-This repository will include a screenshot and link to all of my works that were created with this project. My newest one will be featured in this file for easy access.
+This repository will include a screenshot and link to all of my works that were created with this project. My newest one will be featured in this file for easy access - please scroll down.
 
 ## About the Project
 Wherever you stand in your Tableau or Data Visualization Journey, this project is here to help you practice some of the basics to help you form or rebuild that foundation.
