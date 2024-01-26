@@ -1,6 +1,6 @@
 # Back 2 Viz Basics 2024 with Tableau
 
-This year I am attempting to take part in the bi-weekly community project "Back 2 Viz Basics", to learn more about and get better at visualizing data, storytelling and of course Tableau itself.
+This year I am attempting to regularly take part in the bi-weekly community project "Back 2 Viz Basics", to learn more about and get better at visualizing data, storytelling and of course Tableau itself.
 
 This repository will include a screenshot and link to all of my works that were created with this project. My newest one will be featured in this file for easy access.
 
@@ -9,3 +9,10 @@ Wherever you stand in your Tableau or Data Visualization Journey, this project i
 
 - Get to know more about B2VB on their [website](https://www.thetableaustudentguide.com/vizbasics)
 - Start with this weeks dataset on [data.world](https://data.world/back2vizbasics)
+
+
+
+## History
+| week | viz | subject | link |
+| ---- | --- | --------| ---- |
+| 1 | line chart | Major League Baseball | [view on Tableau](https://public.tableau.com/views/MajorLeagueBaseballPlayerSalaries/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
