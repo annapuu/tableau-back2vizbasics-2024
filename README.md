@@ -10,6 +10,8 @@ Wherever you stand in your Tableau or Data Visualization Journey, this project i
 - Get to know more about B2VB on their [website](https://www.thetableaustudentguide.com/vizbasics)
 - Start with this weeks dataset on [data.world](https://data.world/back2vizbasics)
 
+## Current Viz
+![01_b2vb_major_league_baseball](https://github.com/annapuu/tableau-back2vizbasics-2024/assets/149669892/fa2ccb2c-c2d7-44df-8146-2965764a026b)
 
 
 ## History
