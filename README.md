@@ -15,5 +15,5 @@ Wherever you stand in your Tableau or Data Visualization Journey, this project i
 ## History
 | week | viz | subject | link |
 | ---- | --- | --------| ---- |
-| 1 | line chart | Major League Baseball | [view on Tableau](https://public.tableau.com/app/profile/anna.puck/viz/MajorLeagueBaseballPlayerSalaries/Dashboard1) |
 | 2 | scatter plot | Day of Full Flowering of Cherry Blossoms in Kyoto | [view on Tableau](https://public.tableau.com/app/profile/anna.puck/viz/DayofFullFloweringofCherryBlossomsinKyoto/Dashboard1) |
+| 1 | line chart | Major League Baseball | [view on Tableau](https://public.tableau.com/app/profile/anna.puck/viz/MajorLeagueBaseballPlayerSalaries/Dashboard1) |
