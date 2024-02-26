@@ -17,7 +17,7 @@ Wherever you stand in your Tableau or Data Visualization Journey, this project i
 ## History
 | week | viz | subject | link |
 | ---- | --- | --------| ---- |
-| 4 | bar chart | Acres of Land Owned by African Americans in Georgia | [view on Tableau](https://public.tableau.com/app/profile/anna.puck/viz/DuBois2/Dashboard) |
-| 3 | text table | HBCU | [view on Tableau](https://public.tableau.com/app/profile/anna.puck/viz/HBCU_17075594868340/HBCUOverview) |
-| 2 | scatter plot | Day of Full Flowering of Cherry Blossoms in Kyoto | [view on Tableau](https://public.tableau.com/app/profile/anna.puck/viz/DayofFullFloweringofCherryBlossomsinKyoto/Dashboard1) |
-| 1 | line chart | Major League Baseball | [view on Tableau](https://public.tableau.com/app/profile/anna.puck/viz/MajorLeagueBaseballPlayerSalaries/Dashboard1) |
+| 4 | bar chart | Acres of Land Owned by African Americans in Georgia | [view on Tableau Public](https://public.tableau.com/app/profile/anna.puck/viz/DuBois2/Dashboard) |
+| 3 | text table | HBCU | [view on Tableau Public](https://public.tableau.com/app/profile/anna.puck/viz/HBCU_17075594868340/HBCUOverview) |
+| 2 | scatter plot | Day of Full Flowering of Cherry Blossoms in Kyoto | [view on Tableau Public](https://public.tableau.com/app/profile/anna.puck/viz/DayofFullFloweringofCherryBlossomsinKyoto/Dashboard1) |
+| 1 | line chart | Major League Baseball | [view on Tableau Public](https://public.tableau.com/app/profile/anna.puck/viz/MajorLeagueBaseballPlayerSalaries/Dashboard1) |
